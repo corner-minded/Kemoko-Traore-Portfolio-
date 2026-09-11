@@ -1,7 +1,7 @@
 # Hello, I'm Kemoko Traore
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a person with a profound interest in technology and a dedication to finding flaws in a system of a network, I am still honing my skills and finding out what I can do, I hope that my portfolio can show my development of showing mu interest. 
+I am a person with a profound interest in technology and a dedication to finding flaws in a system of a network, I am still honing my skills and finding out what I can do, I hope that my portfolio can show my development of showing my interest. 
 
 ## Objective
 
@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://www.wireshark.org/faq#_what_is_wireshark"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"></a>
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>

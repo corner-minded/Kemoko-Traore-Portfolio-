@@ -1,5 +1,5 @@
 # Hello, I'm Kemoko Traore
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" /></a>
 
 I am a person with a profound interest in technology and a dedication to finding flaws in a system of a network, I am still honing my skills and finding out what I can do, I hope that my portfolio can show my development of showing my interest. 
 
@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Detection/Conducting Attacks| <a href="https://google.com">Detection Lab</a>|
+| Basic understanding of Linux commands of the operating systems        | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Detection/Conducting Attacks        | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 

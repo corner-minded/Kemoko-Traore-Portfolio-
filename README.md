@@ -30,6 +30,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <a href="https://www.kali.org/features/"><img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
 </div>
 
+### Developmentally Tools
+<div>
+    <a href="https://docs.arduino.cc/learn/starting-guide/whats-arduino/"><img src="https://img.shields.io/badge/Arduino-008184.svg?logo=arduino"></a>
+</div>
+
 <!-- ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />

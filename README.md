@@ -32,7 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Developmentally Tools
 <div>
-    <a href="https://docs.arduino.cc/learn/starting-guide/whats-arduino/"><img src="https://img.shields.io/badge/Arduino-008184.svg?logo=arduino"></a>
+    <a href="https://docs.arduino.cc/learn/starting-guide/whats-arduino/"><img src="https://img.shields.io/badge/-Arduino-00979D?&style=for-the-badge&logo=Arduino&logoColor=white"></a>
 </div>
 
 <!-- ### Endpoint
